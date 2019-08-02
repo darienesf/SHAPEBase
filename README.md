@@ -16,19 +16,19 @@ index legend ( 0th = Patch Cables, 1st= Power Cables, 2nd= Video Cables, nth= Ph
  
  [x,y]
  
- 0,0 = Cat6,5ft (individual index would have its own count for how many are in stock)
- 0,1 = Cat6, 10ft 
- 0,2= Cat6, 20ft
- 0,3= Cat5, 5ft
- 0,4 = Cat5, 10ft
- 0,5 = Cat5, 20ft
- 0,n = Others
+ 0,0 = CLASS INDEX , FIRST PLACE IS IDENTIFIER OF ARRAY
+ 0,1 = Cat6, 05ft, yellow
+ 0,2= Cat6, 10ft, yellow
+ 0,3= Cat5, 5ft, green
+ 0,4 = Cat5, 10ft, green
+ 0,5 = Cat5, 20ft, green
+ 0,n = Others (FOR EXAMPLE: n == whatever the length of the array is)
  
- 1,0 = PC power cable
+ 1,0 = POWER CABLES
  1,1 = Monitor power cable
  1,n = Other Peripherals
  
- 2,0 = anything
+ 2,0 = DISPLAY CABLES
  2,1 = DVI
  2,2 = VGA
  2,3 = miniDisplay
