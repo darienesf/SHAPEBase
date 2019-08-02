@@ -37,14 +37,20 @@ index legend ( 0th = Patch Cables, 1st= Power Cables, 2nd= Video Cables, nth= Ph
  2,n = Other Adapters
  
  # All of these 'Array Code Indecies' are known by ourselves, but there will be variables which call the instance of the array index
- # i.e. <ArrayName> -> "Wires" [0,0] == C610F (Cat6, 10feet)
- #      Wires [0,1] == C605F (Cat6, 05feet)
- # This is only for Wires Array , there will be other Arrays such as Hardware , with 'different' index counts
+ # i.e. <ArrayName> -> "Wires" [0,0] == zeroIndex (String variable name) "Cat6 Wires"
+ #      Wires [0,1] == C605F (Cat6, 05feet) | C(cat)
+        Wires [0,2] == C610F (Cat6, 10feet)   #(class)
+        etc                                   ##(length)
+                                              F (in feet)
+
+# This is only for Wires Array , there will be other Arrays such as Hardware , with 'different' index counts
  # Hardware [a,b]
- # 
+ # TBD
  
  ##########################################
  ------------------------------------------------------------------------------------------
+###
+
 <a href = "https://github.com/darienesf/SHAPEBase/blob/master/Capture.PNG">HERE </a>
   
 ###
