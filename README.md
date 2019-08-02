@@ -7,11 +7,12 @@ Framework Database
   To help
 <END MESSAGE>
   
-2D Array Implementation
+2D "columns" Array Implementation
 WIRES (Array variable name)
 index legend ( 0th = Patch Cables, 1st= Power Cables, 2nd= Video Cables, nth= Phone Cables )
   2D example[0 (patch cable), nTh (size of patch cable & category type)] *count*
-# 0th index = "base case"
+  
+# 0th index of INVENTORY OBJECT VARIABLE = "base case"
  
  [x,y]
  
@@ -46,5 +47,7 @@ index legend ( 0th = Patch Cables, 1st= Power Cables, 2nd= Video Cables, nth= Ph
  ------------------------------------------------------------------------------------------
 
 # Resources #
-
+<a href = "Capture.png">
+  
 ###
+
