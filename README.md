@@ -45,8 +45,6 @@ index legend ( 0th = Patch Cables, 1st= Power Cables, 2nd= Video Cables, nth= Ph
  
  ##########################################
  ------------------------------------------------------------------------------------------
-
-# Resources #
 <a href = "Capture.png">
   
 ###
