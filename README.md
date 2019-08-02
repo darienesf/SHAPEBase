@@ -40,7 +40,7 @@ index legend ( 0th = Patch Cables, 1st= Power Cables, 2nd= Video Cables, nth= Ph
         Wires [0,2] == C610F (Cat6, 10feet)   #(class)
         etc                                   ##(length)
                                               F (in feet)
-
+  # THEREFORE, System.out.println(C605F) will display the count of wires based on what is input into that index 
 # This is only for Wires Array , there will be other Arrays such as Hardware , with 'different' index counts
  # Hardware [a,b]
  # TBD
